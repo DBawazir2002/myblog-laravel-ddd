@@ -8,5 +8,5 @@ composer i
 npm i
 ```
 ```bash
-nopm run build
+npm run build
 ```
