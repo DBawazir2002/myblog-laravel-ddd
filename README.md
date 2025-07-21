@@ -12,7 +12,7 @@
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/DBawazir2002/myblog-laravel-ddd.git
-   cd project
+   cd myblog-laravel-ddd
 
 2. **Install PHP dependencies:**:
    ```bash
